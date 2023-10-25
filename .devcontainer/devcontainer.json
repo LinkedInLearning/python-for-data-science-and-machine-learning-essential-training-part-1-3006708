@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    "GitHub.github-vscode-theme",
+    "ms-toolsai.jupyter",
+    "ms-python.python"
+    // Additional Extensions Here
+  ],
+  "onCreateCommand" : "[ -f requirements.txt ] && pip install -r requirements.txt; echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
+}
+
+// DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
