@@ -1,0 +1,10 @@
+<a href="https://open.gsa.gov/api/dap/" rel="noopener" target="_blank">API</a><a href="https://analytics.usa.gov/data/live/all-pages-realtime.csv">Download the full dataset.</a><a href="https://analytics.usa.gov/data/live/all-domains-30-days.csv">Download the full dataset.</a><a class="external-link" href="https://digital.gov/services/dap/">Digital Analytics Program</a><a class="external-link" href="https://digital.gov/services/dap/common-questions-about-dap-faq/#part-4">does not track individuals</a><a class="external-link" href="https://support.google.com/analytics/answer/2763052?hl=en">anonymizes the IP addresses</a><a class="external-link" href="https://analytics.usa.gov/data/live/second-level-domains.csv">520 executive branch government second level domains</a><a class="external-link" href="https://analytics.usa.gov/data/live/sites.csv">about 6,800 total hostnames</a><a href="https://open.gsa.gov/api/dap/" rel="noopener" target="_blank">API</a><a class="usa-button usa-button-secondary-inverse" href="https://github.com/18F/analytics.usa.gov/issues">
+<img alt="Github Icon" class="github-icon" src="/images/github-logo-white.svg"/>
+                  Suggest a feature or report an issue
+            </a><a href="https://github.com/18F/analytics.usa.gov">
+<img alt="Github Icon" class="github-icon" src="/images/github-logo.svg"/>
+              View application code on GitHub</a><a href="https://github.com/18F/analytics-reporter">
+<img alt="Github Icon" class="github-icon" src="/images/github-logo.svg"/>
+              View code for the data on GitHub</a><a href="https://www.gsa.gov/">
+<img alt="GSA" src="/images/gsa-logo.svg"/>
+</a><a href="https://digital.gov/guides/dap/">Digital Analytics Program</a><a href="https://cloud.gov/">cloud.gov</a>
