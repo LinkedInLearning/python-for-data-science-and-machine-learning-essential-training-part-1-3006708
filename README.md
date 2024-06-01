@@ -19,4 +19,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHjOZJ6XUrh3Q/learning-public-crop_675_1200/0/1709944557924?e=2147483647&v=beta&t=M7Tpw3XXS2hMAb2QXpJ73m7Bp6awqE82A8jReKHbkPk
+python-data-science-and-machine-learning-3006708
 
