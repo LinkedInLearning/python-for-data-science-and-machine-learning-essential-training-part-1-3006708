@@ -1,7 +1,7 @@
-# Python for Data Science and Machine Learning Essential Training
+# Python for Data Science and Machine Learning 
 This is the repository for the LinkedIn Learning course Python for Data Science and Machine Learning Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
+
 
 Python for Data Science and Machine Learning Essential Training is one of the most popular data science courses at LinkedIn Learning. It has now been updated and expanded to two parts-giving you even more hands-on, real-world Python experience. In part one, instructor Lillian Pierson takes you step by step through a data science and machine learning project: a web scraper that downloads and analyzes data from the web. Along the way, she introduces techniques to clean, reformat, transform, and describe raw data; generate visualizations; remove outliers; perform simple data analysis; and generate web-based graphs using Streamlit. By the end of this course, you'll have acquired basic coding experience that you can take to your organization and quickly apply to your own custom data science and machine learning projects.
 
@@ -12,8 +12,6 @@ This course is integrated with GitHub Codespaces, an instant cloud developer env
 Lillian Pierson, P.E.
 
 Engineer, CEO, and Head of Product at Data-Mania
-
-                            
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lillian-pierson-p-e?u=104).
 
